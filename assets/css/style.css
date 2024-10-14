@@ -28,8 +28,8 @@ font-family: 'Roboto', sans-serif;
 		1.General css (Reset code)
 --------------------------------------*/
 *{
-    padding: 0;
-    margin: 0;
+    /*padding: 0;
+    margin: 0;*/
 }
 
 *{
@@ -377,6 +377,9 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
     color: #fff;
     background:#ff545a;
     box-shadow: 0 5px 10px rgba(71,71,71,.4);
+}
+.content {
+	
 }
 
 /*-------------------------------------
